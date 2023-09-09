@@ -1,0 +1,101 @@
+.primero{
+    width: 100%;
+    height: 50px;
+    /* background-color: rgb(103, 103, 129); */
+    display: flex;
+}
+.botonDe{
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-size: 12px;
+    background-color: rgb(21, 21, 87);
+    width: 30px;
+    height: 25px; 
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 3px;
+}
+.links{
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.link{
+    cursor: pointer;
+    color: rgb(14, 12, 12);
+    text-decoration: none;
+    font-size: 12px;
+    margin: 20px;
+}
+.link:hover{
+    cursor: pointer;
+    color: rgb(22, 41, 137);
+    text-decoration: underline;
+    font-size: 12px;
+    margin: 20px;
+}
+.segundo{
+    width: 100%;
+    height: 500px;
+    /* background-color: rgb(59, 59, 123); */
+    flex-direction: column;
+    display: flex;
+}
+.boxmeet{
+    color: rgb(16, 13, 13);
+    font-size: 60px;
+    /* background-color: rgb(109, 66, 12); */
+    width: 500px;
+    height: 220px;
+    padding-top: 150px;
+    padding-left: 40px;
+    padding-bottom: 0px;
+    margin: 0px;
+}
+.boxRe-targetinng{
+    /* background-color: rgb(34, 70, 70); */
+    color: rgb(13, 12, 12);
+    font-size: 14px;
+    width: 500px;
+    height: 50px;
+    padding-left: 40px;
+}
+.botonwatch{
+    cursor: pointer;
+    border: none;
+    background-color: rgb(21, 21, 87);
+    color: white;
+    font-size: 9px;
+    width: 100px;
+    height: 30px;
+    margin-left: 40px;
+}
+.tercero{
+    /* background-color: bisque; */
+    height: 160px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+}
+.boxDestiny{
+    color: black;
+    font-size: 25px;
+    /* background-color: blueviolet; */
+    width: 550px;
+    margin-bottom: 10px;
+    /* display: flex; */
+}
+.boxNohomero{
+    color: black;
+    font-size: 12px;
+    /* background-color: rgb(125, 90, 156); */
+    width: 500px;
+    /* display: flex; */
+}
+.boxNohomero1{
+    color: black;
+    font-size: 12px;
+    /* background-color: rgb(125, 90, 156); */
+    width: 170px;
+}
